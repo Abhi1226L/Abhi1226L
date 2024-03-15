@@ -20,4 +20,4 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1226l&show_icons=true&locale=en&layout=compact" alt="abhi1226l" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1226l&" alt="abhi1226l" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1226l&" alt="abhi1226l" /></p>
