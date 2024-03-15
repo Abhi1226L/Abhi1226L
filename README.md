@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://abhi1226l.io)
+[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.keET-__VKLlAEJU1J6Jq-gHaDt&pid=Api&P=0&h=220)](https://abhi1226l.io)
 <h1 align="center">Hi 👋, I'm Abhishek Parida</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=220">
