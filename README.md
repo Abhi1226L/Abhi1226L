@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhi1226L/Abhi1226L/blob/main/banner.jpg)
+<img src= "https://github.com/Abhi1226L/Abhi1226L/blob/main/banner.jpg" width="1200" height="200" />
 <h1 align="center">Hi 👋, I'm Abhishek Parida</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=220">
