@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Responsive Web Design**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Responsive Web Design,Javascript**
 
 - 📫 How to reach me **paridaabhishek47@gmail.com**
 <p align="left">
