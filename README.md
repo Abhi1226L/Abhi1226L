@@ -28,12 +28,16 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  </a>
 </p>
 
-<br>
-<br>
-<br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1226l&show_icons=true&locale=en&layout=compact" alt="abhi1226l" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1226l&" alt="abhi1226l" /></p>
+<br><br><br><br><br><br><br><br><br><br>
