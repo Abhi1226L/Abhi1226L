@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Responsive Web Design, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, Tailwind CSS**
 
 - 📫 How to reach me **paridaabhishek47@gmail.com**
 
@@ -24,6 +24,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
 </p>
 
